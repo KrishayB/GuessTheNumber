@@ -1,3 +1,5 @@
+// GTN = Guess The Number
+
 #include <iostream>
 #include <string>
 
